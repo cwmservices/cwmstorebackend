@@ -35,7 +35,7 @@ const PORT = process.env.PORT || 5000;
 app.use(
   cors({
     credentials: true,
-    origin: "https://cwmstore.netlify.app/",
+    origin: "https://cwmstore.netlify.app",
     methods: ["GET", "POST", "PUT", "DELETE"],
   })
 );
