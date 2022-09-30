@@ -1,0 +1,92 @@
+[
+  {
+    "quantity": 1,
+    "category": "Gadgets",
+    "name": "Game Console Controller + USB 3.0 Cable",
+    "imgUrl": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/consal-300x300.png",
+    "price": 79,
+    "total": 79,
+    "desc": "Game Console Controller + USB 3.0 Cable! Use your Playstation 2 controllers on Playstation 3 game console Cheapest way to recycle the existing PS2 controllers"
+  },
+  {
+    "quantity": 1,
+    "category": "Laptops",
+    "name": "Tablet Red EliteBook Revolve 810 G2",
+    "imgUrl": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/apptablet-300x300.png",
+    "price": 2100,
+    "total": 2100,
+    "desc": "Tablet Red EliteBook Revolve 810 G2! 7” touchscreen; 16 GB or 32 GB of storage (add up to 1TB of expandable storage with microSD) Up to 10 hours of reading, browsing the web, watching videos and listening to music.Enhanced performance - up to 30% faster quad-core processor and 2GB of RAM (double compared to Fire 7—9th generation)."
+  },
+  {
+    "quantity": 1,
+    "category": "Cameras",
+    "name": "White NX Mini F1 SMART NX",
+    "imgUrl": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/camera2-300x300.png",
+    "price": 559,
+    "total": 559,
+    "desc": "White NX Mini F1 SMART NX! Unwind with your favorite content from Netflix, Facebook, Hulu, Instagram, TikTok, and more through Amazon’s Appstore. (Google Play not supported. Subscription for some apps required). Stay in touch with Zoom, or ask Alexa to make video calls to friends and family."
+  },
+  {
+    "quantity": 1,
+    "category": "Mobiles",
+    "name": "Notebook Widescreen Z51-70 40K6013UPB",
+    "imgUrl": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/sam2-300x300.png",
+    "price": 1100,
+    "total": 1100,
+    "desc": "Notebook Widescreen Z51-70 40K6013UPB! Get more done with Alexa. Update shopping lists, set reminders or listen to your favorite podcast.Amazon Kids offers easy-to-use parental controls on Fire tablets. Subscribe to Amazon Kids+ for access to thousands of books, popular apps and games, videos, songs, Audible books, and more."
+  },
+  {
+    "quantity": 1,
+    "category": "TV's And Computers",
+    "name": "Widescreen 4K SUHD TV",
+    "imgUrl": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/widetv-300x300.png",
+    "price": 1999,
+    "total": 1999,
+    "desc": "Widescreen 4K SUHD TV! Now with up to 10 hours of battery life (40% more) and up to 30% faster quad-core processor compared to Fire 7 (9th generation) for more responsive video playback and game play, and twice as durable as Apple iPad Mini (2021)."
+  },
+  {
+    "quantity": 1,
+    "category": "Cars",
+    "name": "2012 Ferrari 458 Italia",
+    "imgUrl": "https://m.media-amazon.com/images/I/61ruf1gcldL._AC_UL320_.jpg",
+    "price": 117000,
+    "total": 117000,
+    "desc": "2012 Ferrari 458 Italia! At home or on-the-go, the Fire 7 tablet lets you enjoy books, movies, apps, games, browse the web, tackle your to-do list, go hands-free with Alexa, and so much more."
+  },
+  {
+    "quantity": 1,
+    "category": "Kitchen",
+    "name": "Virtual Guicer Grinder",
+    "imgUrl": "https://wordpress.vinagecko.net/t/betashop/wp-content/uploads/2015/10/betashop-25-300x300.png",
+    "price": 240,
+    "total": 240,
+    "desc": "Virtual Guicer Grinder! Curl up with a must-read ebook,get social with apps like Facebook, Instagram, and TikTok, discover new movies or find your next favorite show on Netflix, Hulu, and more available through Amazon’s Appstore."
+  },
+  {
+    "quantity": 1,
+    "category": "Sports",
+    "name": "Portzon 2 Player Badminton Racquets Set",
+    "imgUrl": "https://m.media-amazon.com/images/I/61xaBQvYMhL._AC_UL320_.jpg",
+    "price": 20,
+    "total": 20,
+    "desc": "Portzon 2 Player Badminton Racquets Set! Peace of mind for parents Amazon Kids is free on every Fire tablet. Create child profiles to limit screen time, set educational goals, andmanage content with easy-to-use parental controls."
+  },
+  {
+    "quantity": 1,
+    "category": "Shoes",
+    "name": "Adidas Men's Questar Flow Nxt Running Shoe",
+    "imgUrl": "https://m.media-amazon.com/images/I/71chr+X38QL._AC_UL320_.jpg",
+    "price": 50,
+    "total": 50,
+    "desc": "Adidas Men's Questar Flow Nxt Running Shoe! You can subscribe to Amazon Kids+ to access thousands of apps, games, books, and content from favorites like Disney, PBS Kids, HOMER and more. Learn more about the Amazon Kids+ subscription here."
+  },
+  {
+    "quantity": 1,
+    "category": "Cloths",
+    "name": "The Children's Place Baby-Girls Set",
+    "imgUrl": "https://m.media-amazon.com/images/I/81a0moAjJ4L._AC_UL320_.jpg",
+    "price": 4,
+    "total": 4,
+    "desc": "The Children's Place Baby-Girls Set! Add up to 1TB of expandable storage with microSD⁠—more space for downloading content to enjoy on-the-go. The Amazon-designed sleek and sturdy case will protect your Fire tablet while the built-in stand allows for hands-free viewing in landscape and portrait orientations."
+  }
+]
