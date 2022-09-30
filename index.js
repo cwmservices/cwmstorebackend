@@ -36,7 +36,9 @@ app.use(
   cors({
     credentials: true,
     origin: "https://cwmstore.netlify.app",
+    allowedHeaders: ["Content-Type", "Authorization", "x-csrf-token"],
     methods: ["GET", "POST", "PUT", "DELETE"],
+    exposedHeaders: ["*", "Authorization"],
   })
 );
 
