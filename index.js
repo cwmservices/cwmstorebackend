@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const productRoutes = require("./productRoutes");
 
-const connectDB = require("./db/conn");
+const {connectDB} = require("./db/conn");
 
 app.use(express.static("public"));
 
