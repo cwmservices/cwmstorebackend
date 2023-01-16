@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 
 dbURL = process.env.URL;
 
+export const connectDB = async () => {
 mongoose
   .connect(dbURL, {
     useNewUrlParser: true,
@@ -14,3 +15,4 @@ mongoose
   .catch((err) => {
     console.log(err);
   });
+}
