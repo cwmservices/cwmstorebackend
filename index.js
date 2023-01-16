@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const productRoutes = require("./productRoutes");
 
-require("./db/conn");
+const connectDB = require("./db/conn");
 
 app.use(express.static("public"));
 
@@ -46,6 +46,8 @@ app.use(express.json());
 
 app.use(productRoutes);
 
-app.listen(PORT, (req, res) => {
-  console.log(`server running on port ${PORT}`);
-});
+connectDB().then(() => {
+    app.listen(PORT, () => {
+        console.log("listening for requests");
+    })
+})
